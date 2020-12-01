@@ -1,6 +1,3 @@
-# usandoGIThub
-fazendo teste 
-um pequeno resumo
 
 <!DOCTYPE html>
 <html lang="en">
